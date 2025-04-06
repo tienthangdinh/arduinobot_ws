@@ -1,0 +1,47 @@
+[0.023s] Invoking command in '/home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thang/Desktop/arduinorobot_ws/install/arduinobot_py_examples:/opt/ros/humble CONDA_PROMPT_MODIFIER=(test1) /usr/bin/cmake /home/thang/Desktop/arduinorobot_ws/src/arduinobot_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples
+[0.193s] -- The C compiler identification is GNU 11.4.0
+[0.358s] -- The CXX compiler identification is GNU 11.4.0
+[0.368s] -- Detecting C compiler ABI info
+[0.450s] -- Detecting C compiler ABI info - done
+[0.460s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.460s] -- Detecting C compile features
+[0.461s] -- Detecting C compile features - done
+[0.465s] -- Detecting CXX compiler ABI info
+[0.562s] -- Detecting CXX compiler ABI info - done
+[0.571s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.572s] -- Detecting CXX compile features
+[0.572s] -- Detecting CXX compile features - done
+[0.576s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.181s] -- Found Python3: /home/thang/miniconda3/envs/test1/bin/python3 (found version "3.10.16") found components: Interpreter 
+[1.325s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.480s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.480s] -- Configured cppcheck include dirs: 
+[1.480s] -- Configured cppcheck exclude dirs and/or files: 
+[1.481s] -- Added test 'lint_cmake' to check CMake code style
+[1.483s] -- Added test 'uncrustify' to check C / C++ code style
+[1.483s] -- Configured uncrustify additional arguments: 
+[1.483s] -- Added test 'xmllint' to check XML markup files
+[1.485s] -- Configuring done
+[1.488s] -- Generating done
+[1.491s] -- Build files have been written to: /home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples
+[1.495s] Invoked command in '/home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thang/Desktop/arduinorobot_ws/install/arduinobot_py_examples:/opt/ros/humble CONDA_PROMPT_MODIFIER=(test1) /usr/bin/cmake /home/thang/Desktop/arduinorobot_ws/src/arduinobot_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples
+[1.498s] Invoking command in '/home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thang/Desktop/arduinorobot_ws/install/arduinobot_py_examples:/opt/ros/humble CONDA_PROMPT_MODIFIER=(test1) /usr/bin/cmake --build /home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples -- -j4 -l4
+[1.535s] Invoked command in '/home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thang/Desktop/arduinorobot_ws/install/arduinobot_py_examples:/opt/ros/humble CONDA_PROMPT_MODIFIER=(test1) /usr/bin/cmake --build /home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples -- -j4 -l4
+[1.545s] Invoking command in '/home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thang/Desktop/arduinorobot_ws/install/arduinobot_py_examples:/opt/ros/humble CONDA_PROMPT_MODIFIER=(test1) /usr/bin/cmake --install /home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples
+[1.552s] -- Install configuration: ""
+[1.553s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_examples
+[1.553s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_examples
+[1.553s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.sh
+[1.553s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.dsv
+[1.553s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.sh
+[1.553s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.dsv
+[1.553s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.bash
+[1.554s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.sh
+[1.554s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.zsh
+[1.554s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.dsv
+[1.554s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.dsv
+[1.554s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/packages/arduinobot_cpp_examples
+[1.554s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig.cmake
+[1.554s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig-version.cmake
+[1.555s] -- Installing: /home/thang/Desktop/arduinorobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.xml
+[1.557s] Invoked command in '/home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thang/Desktop/arduinorobot_ws/install/arduinobot_py_examples:/opt/ros/humble CONDA_PROMPT_MODIFIER=(test1) /usr/bin/cmake --install /home/thang/Desktop/arduinorobot_ws/build/arduinobot_cpp_examples
